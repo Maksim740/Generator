@@ -1,0 +1,103 @@
+Quartus II
+Version 9.1 Build 222 10/21/2009 SJ Web Edition
+29
+3500
+OFF
+OFF
+OFF
+ON
+ON
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+generator1
+# storage
+db|generator1.(0).cnf
+db|generator1.(0).cnf
+# case_insensitive
+# source_file
+generator1.bdf
+3e11e7c17d57d74ba259fc9b1e41b72b
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# entity
+74157
+# storage
+db|generator1.(1).cnf
+db|generator1.(1).cnf
+# case_insensitive
+# source_file
+|altera|91|quartus|libraries|others|maxplus2|74157.bdf
+9e98e5daae3586fabb52b5b4b5a8d22c
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+74157:inst1
+}
+# macro_sequence
+
+# end
+# entity
+74153
+# storage
+db|generator1.(2).cnf
+db|generator1.(2).cnf
+# case_insensitive
+# source_file
+|altera|91|quartus|libraries|others|maxplus2|74153.bdf
+282da062e85dbc28b5a89e8c71ef2a39
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+74153:inst
+}
+# macro_sequence
+
+# end
+# entity
+counter
+# storage
+db|generator1.(3).cnf
+db|generator1.(3).cnf
+# case_insensitive
+# source_file
+counter.bdf
+4ed391d2484411d7f59b93ba7044dd
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+counter:inst11
+}
+# macro_sequence
+
+# end
+# complete
+
